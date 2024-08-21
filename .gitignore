@@ -15,7 +15,7 @@ yarn-error.log
 .idea/
 .project
 .classpath
-.c9z/
+.c9/
 *.launch
 .settings/
 *.sublime-workspace
@@ -27,7 +27,6 @@ yarn-error.log
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
-/.vscode
 
 # Miscellaneous
 /.angular/cache
